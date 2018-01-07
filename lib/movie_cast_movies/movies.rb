@@ -1,8 +1,11 @@
+require 'pry'
 
+class MovieCastMovies::Movies
 
-class MovieCastMovies::MovieCastMovies
-
-  def Movie
+  def initialize
+    @movies = []
+  end
+  def movie
     movie = "Die Hard"
 binding.pry
   end
