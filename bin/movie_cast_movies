@@ -3,3 +3,5 @@
 require_relative '../lib/movie_cast_movies'
 
 puts "Hello"
+puts "World"
+puts "What's up"
